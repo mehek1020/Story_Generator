@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/mehek1020/Story_Generator/main/screenshot/sg.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/mehek1020/Story_Generator/main/screenshot/sg.jpg" alt="project-screenshot" width="1000" height="500/">
 
-<img src="https://raw.githubusercontent.com/mehek1020/Story_Generator/main/screenshot/sg1.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/mehek1020/Story_Generator/main/screenshot/sg1.jpg" alt="project-screenshot" width="1000" height="500/">
 
-<img src="https://raw.githubusercontent.com/mehek1020/Story_Generator/main/screenshot/sg2.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/mehek1020/Story_Generator/main/screenshot/sg2.jpg" alt="project-screenshot" width="1000" height="500/">
 
   
   
